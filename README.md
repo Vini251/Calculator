@@ -2,4 +2,4 @@ Calculator
 
 Technology used: HTML5, CSS, JavaScript
 
-This is a simple calculator application which can serve as a good side project for emerging students in Computer Science field. 
+This is a simple calculator application which can serve as a good side project. 
